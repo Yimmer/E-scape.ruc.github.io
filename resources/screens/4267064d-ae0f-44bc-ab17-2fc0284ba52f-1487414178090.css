@@ -1,0 +1,245 @@
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Main {
+  position: absolute;
+  top: 19px;
+  left: 0px;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Lateral_panel {
+  width: 375px;
+  height: 648px;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Lateral_panel .verticalalign {
+  vertical-align: top;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Dynamic_Panel_6 {
+  position: absolute;
+  top: 46px;
+  left: 0px;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Panel_6 {
+  width: 375px;
+  height: 603px;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Panel_6 .verticalalign {
+  vertical-align: top;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Image_1 {
+  position: absolute;
+  top: 104px;
+  left: 7px;
+  width: 360px;
+  height: 730px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Input_1 {
+  position: absolute;
+  top: 26px;
+  left: 81px;
+  padding-left: 15px;
+  width: 174px;
+  height: 49px;
+  background-color: #FFFFFF;
+  background-image: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Input_1 .valign {
+  vertical-align: middle;
+  line-height: 11.0pt;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Input_1 input {
+  color: #727272;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto-Light,Arial;
+  font-size: 11.0pt;
+  text-shadow: none;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Button_1 {
+  position: absolute;
+  top: 35px;
+  left: 280px;
+  width: 58px;
+  height: 23px;
+  background-color: transparent;
+  background-image: none;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #000000;
+  border-radius: 6px 6px 6px 6px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12.0pt;
+  font-family: Roboto-Regular,Arial;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Button_1 span {
+  color: #007DFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Regular,Arial;
+  font-size: 12.0pt;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #007DFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Regular,Arial;
+  font-size: 12.0pt;
+  line-height: 0px;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Image_28 > svg {
+  width: 37px;
+  height: 38px;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Image_28 {
+  position: absolute;
+  top: 31px;
+  left: 85px;
+  width: 37px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_3 {
+  position: absolute;
+  top: 9px;
+  left: 109px;
+  width: 158px;
+  height: 29px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12.0pt;
+  font-family: Gill Sans MT,Arial;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_3 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_3 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: Gill Sans MT,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_3 span#rtr-s-Label_3_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: Gill Sans MT,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_4 {
+  position: absolute;
+  top: 9px;
+  left: 278px;
+  width: 81px;
+  height: 29px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12.0pt;
+  font-family: Arial,Arial;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_4 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_4 span {
+  color: #999999;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_4 span#rtr-s-Label_4_0 {
+  color: #999999;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f #s-Label_4 span#rtr-s-Label_4_1 {
+  color: #999999;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-4267064d-ae0f-44bc-ab17-2fc0284ba52f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,180 @@
+#s-509de9e9-1394-4c21-8242-00365cb8baad > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Text_1 {
+  position: absolute;
+  top: 30px;
+  left: 84px;
+  width: 212px;
+  height: 31px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 18.0pt;
+  font-family: Yuppy TC,Arial;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Text_1 span {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: Yuppy TC,Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: Yuppy TC,Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Text_1 span#rtr-s-Text_1_1 {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: Yuppy TC,Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Main {
+  position: absolute;
+  top: 19px;
+  left: 0px;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Lateral_panel {
+  width: 375px;
+  height: 648px;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Lateral_panel .verticalalign {
+  vertical-align: top;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Dynamic_Panel_6 {
+  position: absolute;
+  top: 46px;
+  left: 0px;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Panel_6 {
+  width: 375px;
+  height: 603px;
+  background-color: #FFFFFF;
+  background-image: none;
+  box-shadow: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Panel_6 .verticalalign {
+  vertical-align: top;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Image_1 {
+  position: absolute;
+  top: 141px;
+  left: 0px;
+  width: 376px;
+  height: 707px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Image_2 {
+  position: absolute;
+  top: 2px;
+  left: 11px;
+  width: 342px;
+  height: 124px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Label_4 {
+  position: absolute;
+  top: 9px;
+  left: 280px;
+  width: 89px;
+  height: 29px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12.0pt;
+  font-family: Arial,Arial;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Label_4 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Label_4 span {
+  color: #4A86E8;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Label_4 span#rtr-s-Label_4_0 {
+  color: #4A86E8;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Image_7 > svg {
+  width: 28px;
+  height: 28px;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad #s-Image_7 {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  width: 28px;
+  height: 28px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-509de9e9-1394-4c21-8242-00365cb8baad > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
